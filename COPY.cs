@@ -1,4 +1,3 @@
-using Anomaly;
 using Photon.Pun;
 using Photon.Realtime;
 using System.Collections.Generic;
@@ -52,7 +51,7 @@ public class KnownSystem : MonoBehaviourPunCallbacks
             GameObject tag = new GameObject("KnownTag_" + actorNumber);
             TextMeshPro textMesh = tag.AddComponent<TextMeshPro>();
 
-            textMesh.text = "KNOWN"
+            textMesh.text = "KNOWN";
             textMesh.color = Color.white;
 
             textMesh.fontSize = 2;
@@ -72,7 +71,7 @@ public class KnownSystem : MonoBehaviourPunCallbacks
                 activeTags[actorNumber].transform.LookAt(Camera.main.transform);
                 activeTags[actorNumber].transform.Rotate(0, 180, 0);
 
-                activeTags[actorNumber].GetComponent<TextMeshPro>().text = "KNOWN"
+                activeTags[actorNumber].GetComponent<TextMeshPro>().text = "KNOWN";
             }
         }
     }
