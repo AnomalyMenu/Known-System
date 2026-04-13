@@ -22,3 +22,6 @@ Displays **"Known"** above a player's head if their Player ID is in your list.
 1. Copy/Download the latest script
 2. Put the code into your mod menu's **Classes** or **Menu** folder
 3. And then make a game object that does not destroy on load and add KnownSystem as a component.
+
+---
+# [Discord](https://discord.gg/ka9rjxHUPj)
