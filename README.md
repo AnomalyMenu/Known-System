@@ -1,5 +1,10 @@
-# Known System
-
+<div align="center">
+  <picture>
+    <img alt="KnownSystem" width="700" src="https://github.com/AnomalyMenu/Known-System/blob/075dee735d9f387f9ff3b2b371f38cdd99a7a6a9/ks1.jpg" 
+         style="border-radius:20px; border:4px solid #FF2B6C; box-shadow: 0 0 50px #FF2B6C, inset 0 0 30px rgba(255,43,108,0.4);">
+  </picture>
+<div>
+  
 **A lightweight "Known" tag system for Gorilla Tag mod menus.**
 
 Displays **"Known"** above a player's head if their Player ID is in your list.
