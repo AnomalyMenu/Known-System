@@ -25,3 +25,4 @@ Displays **"Known"** above a player's head if their Player ID is in your list.
 
 ---
 # [Discord](https://discord.gg/ka9rjxHUPj)
+# [Wiki](https://anomalymenu.42web.io/wikis/knownsystemwiki)
