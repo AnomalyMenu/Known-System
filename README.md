@@ -5,6 +5,7 @@
   </picture>
   
 **A lightweight "Known" tag system for Gorilla Tag mod menus.**
+</div>
 
 Displays **"Known"** above a player's head if their Player ID is in your list.
 ---
