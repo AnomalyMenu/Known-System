@@ -3,6 +3,7 @@ using Photon.Realtime;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+
 public class KnownSystem : MonoBehaviourPunCallbacks
 {
     public Dictionary<string, string> knownPlayers = new Dictionary<string, string>
