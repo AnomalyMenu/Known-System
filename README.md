@@ -24,11 +24,11 @@ Displays **"Known"** above a player's head if their Player ID is in your list.
 2. Put the code into your mod menu's **Classes** or **Menu** folder
 3. And then make a game object that does not destroy on load and add KnownSystem as a component.
 
-``csharp
+```csharp
    GameObject knownsysobj = new GameObject("Known-System");
    DontDestroyOnLoad(knownsysobj);
    knownsysobj.AddComponent<Known-System>();
-``
+```
 
 ---
 # [Discord](https://discord.gg/ka9rjxHUPj)
